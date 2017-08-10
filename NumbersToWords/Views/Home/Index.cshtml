@@ -1,0 +1,20 @@
+@{
+  Layout = "_Layout";
+}
+<div class="jumbotron">
+  <h1>Welcome to the Number To Word Calculator</h1>
+  <form action="/word" method="post">
+    <div class="form-group">
+      <label for="number">Please enter the number</label>
+      <input id="number" name="number" type="number" />
+    </div>
+
+    <button type="submit">Find the Word</button>
+  </form>
+  <div id="result">
+    @if(Model != null)
+    {
+      <p>Your number in words is: @Model</p>
+    }
+  </div>
+</div>

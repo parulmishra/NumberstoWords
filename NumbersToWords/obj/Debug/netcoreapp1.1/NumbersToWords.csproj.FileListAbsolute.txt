@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/bin/Debug/netcoreapp1.1/NumbersToWords.deps.json
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/bin/Debug/netcoreapp1.1/NumbersToWords.runtimeconfig.json
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/bin/Debug/netcoreapp1.1/NumbersToWords.runtimeconfig.dev.json
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/obj/Debug/netcoreapp1.1/NumbersToWords.AssemblyInfo.cs
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/bin/Debug/netcoreapp1.1/NumbersToWords.dll
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/bin/Debug/netcoreapp1.1/NumbersToWords.pdb
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/obj/Debug/netcoreapp1.1/NumbersToWords.dll
+/Users/Guest/Desktop/NumbersToWords.Solution/NumbersToWords/obj/Debug/netcoreapp1.1/NumbersToWords.pdb

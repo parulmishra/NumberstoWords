@@ -1,0 +1,16 @@
+div
+{
+  padding: 20px;
+  width: 100%;
+}
+input
+{
+  padding: 10px;
+  width: 300px;
+}
+button
+{
+  width: 200px;
+  height: 50px;
+  margin-left: 200px;
+}
